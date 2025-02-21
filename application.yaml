@@ -1,4 +1,3 @@
-# application.yaml properties
 eureka:
   client:
     fetch-registry: true
