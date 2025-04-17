@@ -2,7 +2,7 @@ spring:
   application:
     name: USER-SERVICE
   boot:
-    message: this is user service
+    message: this is user service updated
 
   datasource:
     url: jdbc:mysql://localhost:3306/microservices_lcwd_2025
