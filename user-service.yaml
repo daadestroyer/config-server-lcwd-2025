@@ -1,7 +1,4 @@
 spring:
-  application:
-    name: USER-SERVICE
-
   boot:
     name: hello user service
 
