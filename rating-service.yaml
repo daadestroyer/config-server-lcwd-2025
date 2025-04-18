@@ -1,6 +1,0 @@
-spring:
-  application:
-    name: RATING-SERVICE
-  boot:
-    rating:
-      message: this is rating service updated (/refresh example)
