@@ -2,7 +2,7 @@ spring:
   application:
     name: RATING-SERVICE
   boot:
-    message: hello this is rating service spring cloud bus demo
+    message: hello this is rating service
   
   datasource:
     url: jdbc:mysql://localhost:3306/microservices_lcwd_2025
