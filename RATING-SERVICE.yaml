@@ -2,8 +2,10 @@ spring:
   application:
     name: RATING-SERVICE
 
-  config:
-    import: optional:configserver:http://localhost:1111  # Ensure trailing `/` in Config Server URL
+  boot:
+    rating:
+      message: hello this is rating service
+  
   datasource:
     url: jdbc:mysql://localhost:3306/microservices_lcwd_2025
     username: root
