@@ -2,4 +2,5 @@ spring:
   application:
     name: RATING-SERVICE
   boot:
-    message: this is rating service updated (/refresh example)
+    rating:
+      message: this is rating service updated (/refresh example)
